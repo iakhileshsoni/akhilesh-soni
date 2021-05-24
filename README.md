@@ -13,7 +13,7 @@
 ### My Technical Skills :
 
 ![image](https://user-images.githubusercontent.com/61263785/119316357-7fc91b80-bc94-11eb-8126-320a39000008.png)
-![image](https://user-images.githubusercontent.com/61263785/119316720-ea7a5700-bc94-11eb-9b8d-842223f63b3c.png)
+![image](https://user-images.githubusercontent.com/61263785/119316869-1bf32280-bc95-11eb-976c-a7780228336d.png)
 ![image](https://user-images.githubusercontent.com/61263785/119316611-ccacf200-bc94-11eb-84b1-bf043ba0f79a.png)
 
 
