@@ -10,14 +10,11 @@
 
 2. Twitter: https://twitter.com/Akhilesh13Kumar
 
-### My Technical Skills :
 
-<!-- ![image](https://user-images.githubusercontent.com/61263785/119316357-7fc91b80-bc94-11eb-8126-320a39000008.png)
-![image](https://user-images.githubusercontent.com/61263785/119317078-56f55600-bc95-11eb-90a1-253ae309b5ac.png)
-![image](https://user-images.githubusercontent.com/61263785/119317551-d84ce880-bc95-11eb-9b38-074f179b727a.png)
-![image](https://user-images.githubusercontent.com/61263785/119496418-18d56080-bd81-11eb-82a4-a7d9f9c79cca.png)
-![image](https://user-images.githubusercontent.com/61263785/119318755-4d6ced80-bc97-11eb-94d8-94009ce30b19.png)
-![html](https://user-images.githubusercontent.com/61263785/119497408-2a6b3800-bd82-11eb-9a34-40c2e2f1f6fc.png) -->
+
+
+### My Technical Skills ![computer](https://user-images.githubusercontent.com/61263785/119502104-31e11000-bd87-11eb-810a-e82b5794d57e.jpg) 
+
 
 ![python1](https://user-images.githubusercontent.com/61263785/119500975-04e02d80-bd86-11eb-914b-9c890aa4e284.jpg)
 ![django1](https://user-images.githubusercontent.com/61263785/119499078-f8f36c00-bd83-11eb-8c6f-53a799d6cf3f.jpg)
@@ -31,7 +28,10 @@
 
 
 
-### My Technical Journey and Goals :
+
+### My Technical Journey and Goals ![rocket](https://user-images.githubusercontent.com/61263785/119502648-c77c9f80-bd87-11eb-9460-e4cc43afd63b.png)
+
+
 
 1. My primary working technology is Python and Django
 
