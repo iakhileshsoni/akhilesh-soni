@@ -40,7 +40,7 @@
 
 2. Passionate for learning & exploring new Technologies.
 
-3. I love to code and always try to implement new ideas and have experiments
+3. I love to code and always try to implement new ideas and to have experiments
 
 <!--
 **AkhilWorld143/AkhilWorld143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
