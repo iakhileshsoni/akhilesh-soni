@@ -19,10 +19,12 @@
 
 ![python1](https://user-images.githubusercontent.com/61263785/119500975-04e02d80-bd86-11eb-914b-9c890aa4e284.jpg)
 ![django1](https://user-images.githubusercontent.com/61263785/119499078-f8f36c00-bd83-11eb-8c6f-53a799d6cf3f.jpg)
+![php](https://user-images.githubusercontent.com/61263785/120900461-90916e00-c652-11eb-816a-7534a1f9c5db.jpg)
 ![mysql1](https://user-images.githubusercontent.com/61263785/119499105-ff81e380-bd83-11eb-9de0-97f06e654fcf.jpg)
 ![html1](https://user-images.githubusercontent.com/61263785/119499137-07418800-bd84-11eb-9d98-7bcc109b8294.jpg)
 ![css1](https://user-images.githubusercontent.com/61263785/119499157-0c9ed280-bd84-11eb-80b8-b339fa5d5393.jpg)
 ![js1](https://user-images.githubusercontent.com/61263785/119499176-13c5e080-bd84-11eb-92db-69d0d802bbed.jpg)
+![react](https://user-images.githubusercontent.com/61263785/120900567-04cc1180-c653-11eb-892c-22d8ced05a5f.png)
 ![postgres](https://user-images.githubusercontent.com/61263785/119499202-1aecee80-bd84-11eb-8205-9d35d9d478f8.jpg)
 
 
