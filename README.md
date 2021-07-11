@@ -1,6 +1,6 @@
 ### Hi 👋 I am Akhilesh Kumar Soni
 
-🔭 I’m currently working as a Python Django Developer
+🔭 I’m a Software Developer Engineer working with Python & Django
 
 🌱 I’m currently learning/working on ReactJS
 
