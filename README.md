@@ -2,7 +2,7 @@
 
 🔭 I’m a Software Developer Engineer working with Python & Django
 
-🌱 I’m currently learning ReactJS
+I’m currently learning ReactJS
 
 📫 You can reach me out: 
 
