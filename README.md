@@ -17,7 +17,7 @@ I’m currently learning ReactJS
 ### My Technical Skills ![computer](https://user-images.githubusercontent.com/61263785/119502104-31e11000-bd87-11eb-810a-e82b5794d57e.jpg) 
 
 
-![python1](https://user-images.githubusercontent.com/61263785/119500975-04e02d80-bd86-11eb-914b-9c890aa4e284.jpg)
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://user-images.githubusercontent.com/61263785/119500975-04e02d80-bd86-11eb-914b-9c890aa4e284.jpg)
 ![django1](https://user-images.githubusercontent.com/61263785/119499078-f8f36c00-bd83-11eb-8c6f-53a799d6cf3f.jpg)
 ![php](https://user-images.githubusercontent.com/61263785/120900461-90916e00-c652-11eb-816a-7534a1f9c5db.jpg)
 ![mysql1](https://user-images.githubusercontent.com/61263785/119499105-ff81e380-bd83-11eb-9de0-97f06e654fcf.jpg)
